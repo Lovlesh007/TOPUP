@@ -15,6 +15,7 @@ It's a Online Recharge Site Like Paytm and Freecharge
 <br><br><br><br><br>
 I am Sharing Screenshot Of one the Recharge
 ![REPO list](static//mobile.JPG)
+<br><br><br>
 Now This is the Login and Register Page of Our Website in which User can add there respective account and easily Login in there accounts.<br>
 ![REPO list](static//login.JPG)
 <br><br><br><br><br>
