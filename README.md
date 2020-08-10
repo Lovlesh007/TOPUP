@@ -11,14 +11,17 @@ It's a Online Recharge Site Like Paytm and Freecharge
   3. Metro.
   4. Datacard.
   ![REPO list](static///home2.JPG)
+  
 <br><br><br><br><br>
-  Now This is the Login and Register Page of Our Website in which User can add there respective account and easily Login in there accounts.<br>
- ![REPO list](static//login.png)
+I am Sharing Screenshot Of one the Recharge
+![REPO list](static//mobile.JPG)
+Now This is the Login and Register Page of Our Website in which User can add there respective account and easily Login in there accounts.<br>
+![REPO list](static//login.JPG)
 <br><br><br><br><br>
-  ![REPO list](static//signup.png)
+  ![REPO list](static//signup.JPG)
 <br><br><br><br><br>
- Our CheckOut Page Also Looks Like this , where you can update or change your product values directly & simply click On the Update Button. <br><br>
- ![REPO list](media/readme//5.png)
+Apart From this there is a Features of History where User can go and check all there Previous done Recharges, Along with this Also added Searching Functionality To Search for particular Recharge as Well
+![REPO list](static//history1.JPG)
   
   </b>
 
