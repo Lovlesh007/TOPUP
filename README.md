@@ -2,7 +2,7 @@
 It's a Online Recharge Site Like Paytm and Freecharge
 <br><br>
 <b>This is the Alluring Home Page Of Our Website , Which Requires lots Of improvements & Updation. Since It's An Prototype So its Okay!!</b>
-![REPO list](media/readme//1.png)
+![REPO list](static///home1.JPG)
 <br><br><br><br>
 <b> This is another image of Our homepage which mostly focus On 4 Products as i told you Earlier. 
   These are
