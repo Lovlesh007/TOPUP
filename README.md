@@ -5,7 +5,8 @@ It's a Online Recharge Site Like Paytm and Freecharge
  
  
   TOPUP | Python, Django, Html, Css, Bootstrap
-  Features:-
+  
+ Features:-
  1. Developed a full-stack web application using with Django 2 with HTML, CSS, Bootstrap as the frontend.
  2. Capable of all the Authentication stuff.
  3. Added history Analysis & Searching Functionality.
